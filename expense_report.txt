@@ -1,0 +1,17 @@
+PERSONAL EXPENSE REPORT
+=======================
+
+Monthly Budget   : Rs. 10000.00
+Total Spending   : Rs. 16000.00
+Remaining Budget : Rs. -6000.00
+
+CATEGORY SUMMARY
+Food          : Rs. 6000.00 (37.50%)
+Travel        : Rs. 5000.00 (31.25%)
+Books         : Rs. 5000.00 (31.25%)
+Entertainment : Rs. 0.00 (0.00%)
+
+DATE-WISE EXPENSES
+02/11/2026 | Food | Rs. 6000.00
+03/11/2026 | Travel | Rs. 5000.00
+04/11/2026 | Books | Rs. 5000.00
